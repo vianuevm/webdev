@@ -25,8 +25,6 @@ Now open your browser on localhost:8080 -- you have a webserver!
 
 On Windows
 
-On OSX (Mac)
-
 Open Dos (press windows button, type cmd and hit enter)
 Change directories to wherever it is you want this project to exist (example, type "cd /" to change directory to the C:\ directory
 
