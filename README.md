@@ -1,5 +1,5 @@
 # webdev
-
+<iframe src="//giphy.com/embed/VHHxxFAeLaYzS" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/hacking-kung-fury-hackerman-VHHxxFAeLaYzS">via GIPHY</a></p>
 
 First things first:
 
